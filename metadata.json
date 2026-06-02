@@ -1,0 +1,59 @@
+{
+  "siteId": "provincial-road-trip-routes",
+  "generatedAt": "2026-06-02T15:38:20.494723",
+  "categories": [
+    "beginner-provincial-road-trip-routes",
+    "advanced-provincial-road-trip-routes",
+    "tips-provincial-road-trip-routes",
+    "history-provincial-road-trip-routes",
+    "trending-provincial-road-trip-routes",
+    "tutorials-provincial-road-trip-routes"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-provincial-road-trip-routes",
+      "category_name": "Beginner Provincial Road Trip Routes"
+    },
+    {
+      "category_slug": "advanced-provincial-road-trip-routes",
+      "category_name": "Advanced Provincial Road Trip Routes"
+    },
+    {
+      "category_slug": "tips-provincial-road-trip-routes",
+      "category_name": "Provincial Road Trip Routes Tips"
+    },
+    {
+      "category_slug": "history-provincial-road-trip-routes",
+      "category_name": "Provincial Road Trip Routes History"
+    },
+    {
+      "category_slug": "trending-provincial-road-trip-routes",
+      "category_name": "Trending Provincial Road Trip Routes"
+    },
+    {
+      "category_slug": "tutorials-provincial-road-trip-routes",
+      "category_name": "Provincial Road Trip Routes Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "provincial-road-trip-routes",
+    "color_scheme": {
+      "name": "Purple Dream",
+      "primary": "#6b21a8",
+      "secondary": "#a855f7",
+      "accent": "#d8b4fe",
+      "background": "#faf5ff",
+      "text": "#581c87",
+      "light": "#f3e8ff"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "topbar",
+    "site_title": "Provincial Road Trip Routes Central",
+    "articles_per_row": 2
+  }
+}
